@@ -1,5 +1,5 @@
 {
-  "name":"GOLD-MD BY UMAR",
+  "name":"AMIR-MD BY 4855",
   "description":"Lazmiii•) Ap yeh Box soch samajh kar fill karna Q k ap phir inko WhatsApp per change nahi kar pae ge Ok",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.postimg.cc/1XQq5DzP/pictures-white949544-GOjsnnsnznznzbzbbzbz7777-GOLDLD-PIC.png",
@@ -41,7 +41,7 @@
     "BOT_NAME" : {
 
       "description":"Ap apne bot ka name Likho",
-      "value":"GOLD-MD",
+      "value":"AMIR-MD",
       "required":true
 
     } ,
@@ -80,14 +80,14 @@
 
     "desc": "Ap apna name likho",
     "required": true,
-    "value": "UMAR"
+    "value": "AMIRMAHI"
   },
     "OWNER_NUMBER":
   {
 
     "desc": "Ap apna number likho |+| nahi lagana ese likho 923xxxxx",
     "required":true,
-    "value": "233201817959"
+    "value": "923456664855"
   },
     "WARN_COUNT":
   {
@@ -105,7 +105,7 @@
   {
     "description": "Is box me |no| Likho ya |yes| apki merzi is ka koi faida nahi hai koi error nahi ae ga bot me",
     "required": true,
-    "value": "no"
+    "value": "yes"
   },
   "PRESENCE":{
     "description":"Yaha per |online| Likho always Online Show hone ke lie or |typing| likho ge to koi msg kre ga apko oper show hoga is typing...  or chahte ho ke is recordin...  show ho to uske lie |recording| Likho or agar chahte hai esa kuch bhi na ho to box khali chor do",
